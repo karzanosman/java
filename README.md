@@ -7,6 +7,8 @@
 [03-Programming Fundamentals.pptx](https://raw.githubusercontent.com/karzanosman/java/master/03-Programming%20Fundamentals.pptx)
 
 [04-Programming Fundamentals.pptx](https://raw.githubusercontent.com/karzanosman/java/master/04-Programming%20Fundamentals.pptx)
+
+
 ..............................................................................................................................
 
 # Download "JDK" and "TextPad" from link below
