@@ -2,6 +2,8 @@
 
 [01-Object Oriented Programming.pptx](https://raw.githubusercontent.com/karzanosman/java/master/01-Object%20Oriented%20Programming.pptx)
 
+[02-Object Oriented Programming.pptx](https://raw.githubusercontent.com/karzanosman/java/master/02-Object%20Oriented%20Programming.pptx)
+
 ..............................................................................................................................
 
 # Programming Fundamentals
